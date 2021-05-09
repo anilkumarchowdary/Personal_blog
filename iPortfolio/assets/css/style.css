@@ -10,16 +10,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color:#0a58ca;
+  color: rgba(10, 180, 202, 0.97);
 ;
 }
 a {
-  color:#d63384;
+  color: #be33d6;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #edcf37;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background:#18d26e;
+  background: #3ad218;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background:#dc3545;
+  background: #dcb235;
   color: #fff;
 }
 
@@ -95,14 +95,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile h1 a, #header .profile h1 a:hover {
-  color:#ed3c0d;
+  color: #ed0d5b;
   text-decoration: none;
 }
 
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background:#cff4fc;
+  background: #cfd9fc;
   color:#6f7180;
   line-height: 1;
   padding: 8px 0;
@@ -174,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #5a14dd;
 }
 
 /* Mobile Navigation */
@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: #21dd14;
   color: #fff;
   width: 40px;
   height: 40px;
